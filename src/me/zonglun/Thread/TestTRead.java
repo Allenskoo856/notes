@@ -35,4 +35,42 @@ public class TestTRead {
         d.start();
         E.start();
     }
+
+    @Test
+    public void test3() throws InterruptedException {
+        IsAlive isAlive = new IsAlive();
+        System.out.println("begin == " + isAlive.isAlive());
+        isAlive.start();
+        Thread.sleep(1000);
+        System.out.println("end == " + isAlive.isAlive());
+    }
+
+    @Test
+    public void test4() {
+        try {
+            Interrupt interrupt = new Interrupt();
+            interrupt.start();
+            Thread.sleep(1000);
+            Thread.interrupted();
+            System.out.println("是否停止1？=" + interrupt.isInterrupted());
+            System.out.println("是否停止2？=" + interrupt.isInterrupted());
+        } catch (InterruptedException e) {
+            System.out.println("main catch");
+            e.printStackTrace();
+        }
+    }
+
+    @Test
+    public void test5() {
+        MyThread3 thread3 = new MyThread3();
+        thread3.start();
+        try {
+            Thread.sleep(200);
+            thread3.interrupt();
+        } catch (InterruptedException e) {
+            System.out.println("main catch");
+            e.printStackTrace();
+        }
+        System.out.println("end!");
+    }
 }
