@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b86d276-7cda-4169-be83-ffea2b3683e2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/Alogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/Blogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/Interrupt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/IsAlive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/MyThread3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/Mythread4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/me/zonglun/controller/LoginServer.java" afterDir="false" />
+    <list default="true" id="6b86d276-7cda-4169-be83-ffea2b3683e2" name="Default" comment="change notes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/me/zonglun/Thread/TestTRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/zonglun/Thread/TestTRead.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,30 +19,7 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestTRead.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/me/zonglun/Thread/TestTRead.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="64" column="44" lean-forward="true" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mythread4.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/me/zonglun/Thread/Mythread4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#194#195#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,8 +70,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="83" />
-    <option name="y" value="14" />
+    <option name="x" value="33" />
+    <option name="y" value="11" />
     <option name="width" value="1206" />
     <option name="height" value="724" />
   </component>
@@ -355,7 +324,21 @@
       <option name="project" value="LOCAL" />
       <updated>1527124610706</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change notes">
+      <created>1527162796605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527162796605</updated>
+    </task>
+    <task id="LOCAL-00004" summary="change notes">
+      <created>1527216626702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1527216626702</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -401,7 +384,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32991454" />
       <window_info anchor="bottom" id="Messages" weight="0.32991454" />
@@ -410,8 +392,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924472" weight="0.50598294" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.52307695" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.36581197" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.52307695" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5606838" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.1897436" visible="true" weight="0.2620846" />
       <window_info anchor="right" id="Database" order="3" />
@@ -676,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/me/zonglun/Thread/TestTRead.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="64" column="44" lean-forward="true" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-15413">
@@ -696,12 +671,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/me/zonglun/Thread/Mythread4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="120">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding>
             <element signature="e#167#168#0" expanded="true" />
             <element signature="e#194#195#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/zonglun/Thread/TestTRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1259">
+          <caret line="64" column="44" lean-forward="true" selection-start-line="64" selection-start-column="44" selection-end-line="64" selection-end-column="44" />
         </state>
       </provider>
     </entry>
