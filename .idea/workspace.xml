@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b86d276-7cda-4169-be83-ffea2b3683e2" name="Default" comment="change notes">
+    <list default="true" id="6b86d276-7cda-4169-be83-ffea2b3683e2" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -338,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527216626702</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change notes">
+      <created>1527253857620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1527253857620</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -392,7 +399,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924472" weight="0.50598294" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.52307695" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.52307695" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.5606838" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.1897436" visible="true" weight="0.2620846" />
