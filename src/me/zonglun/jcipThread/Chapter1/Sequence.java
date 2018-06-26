@@ -6,7 +6,8 @@ import net.jcip.annotations.ThreadSafe;
 
 @ThreadSafe
 public class Sequence {
-    @GuardedBy("this") private int nextValue;
+    @GuardedBy("this")
+    private int nextValue;
 
     public synchronized int getNext() {
         return nextValue++;
