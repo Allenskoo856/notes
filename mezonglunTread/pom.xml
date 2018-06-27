@@ -7,6 +7,7 @@
     <groupId>Tread</groupId>
     <artifactId>me.zonglun.Tread</artifactId>
     <dependencies>
+
         <!-- https://mvnrepository.com/artifact/net.jcip/jcip-annotations -->
         <dependency>
             <groupId>net.jcip</groupId>

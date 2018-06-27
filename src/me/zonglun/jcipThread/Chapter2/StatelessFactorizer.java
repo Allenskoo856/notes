@@ -1,6 +1,7 @@
-package me.zonglun.jcipThread.Chapter1.Chapter2;
+package me.zonglun.jcipThread.Chapter2;
 
 import net.jcip.annotations.ThreadSafe;
+
 import javax.servlet.*;
 import java.io.IOException;
 import java.math.BigInteger;
@@ -12,6 +13,14 @@ import java.math.BigInteger;
 @ThreadSafe
 public class StatelessFactorizer extends GenericServlet implements Servlet {
 
+    /**
+     * 简单的因式分解
+     *
+     * @param servletRequest
+     * @param servletResponse
+     * @throws ServletException
+     * @throws IOException
+     */
     @Override
     public void service(ServletRequest servletRequest, ServletResponse servletResponse) throws ServletException, IOException {
         BigInteger i = extractFromRequest(servletRequest);
@@ -28,6 +37,6 @@ public class StatelessFactorizer extends GenericServlet implements Servlet {
 
     BigInteger[] factor(BigInteger i) {
         // Doesn't really factor
-        return new BigInteger[] { i };
+        return new BigInteger[]{i};
     }
 }
